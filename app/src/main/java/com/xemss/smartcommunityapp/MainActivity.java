@@ -58,8 +58,9 @@ public class MainActivity extends AppCompatActivity {
         mDrawerToggle = new ActionBarDrawerToggle(
                 this,
                 mDrawerLayout,
+                // TODO: 22.10.2017 problems with drawer icon
 //                R.drawable.ic_drawer,
-                android.support.v7.widget.Toolbar,
+//                android.support.v7.widget.Toolbar,
                 R.string.drawer_open,
                 R.string.drawer_close
         ) {

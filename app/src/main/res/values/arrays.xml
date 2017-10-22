@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list">
+        <item>Home</item>
+        <item>My balance</item>
+        <item>My tasks</item>
+        <item>My events</item>
+        <item>My memos</item>
+    </string-array>
+</resources>
