@@ -24,6 +24,15 @@
     <string name="forget_pass_button">Forget password?</string>
     <string name="sign_in_button">Sign in</string>
     <string name="avatar">Avatar</string>
+    <string name="drawer_open">drawer open</string>
+    <string name="drawer_close">drawer close</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
 
     <!-- TODO: implement array -->
     <!--<string-array name=""-->
